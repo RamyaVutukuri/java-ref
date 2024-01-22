@@ -1,5 +1,7 @@
 module my.module {
     requires java.base;
-
-    opens com.techatpark.practices.strings;
+    requires java.sql;
+    opens com.techatpark.practices;
+    requires org.locationtech.jts;
+    requires org.postgresql.jdbc;
 }

@@ -1,4 +1,4 @@
 /**
  * Basic Classes for Practicing Java Strings.
  */
-package com.techatpark.practices.strings;
+package com.techatpark.practices;
